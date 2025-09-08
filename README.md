@@ -1,2 +1,11 @@
-# Smart-Crop-Advisory-System-for-farmers
-This is our hackathon project where we aim to solve the problem of small and marginal farmers. We'll help the farmers decide which type of crop they should grow according to the area they live in.
+
+  # AI-Based Crop Recommendation App
+
+  This is a code bundle for AI-Based Crop Recommendation App. The original project is available at https://www.figma.com/design/bBFzed2sycYx4g410lXe8m/AI-Based-Crop-Recommendation-App.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
